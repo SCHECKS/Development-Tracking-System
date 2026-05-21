@@ -1,8 +1,7 @@
 """
 Charis Properties – Off-Plan Investment Tracker
 ================================================
-CS50P Final Project  |  Ann Njeri Mucheke
-GitHub: <your-github-username>  |  edX: <your-edx-username>
+Ann Njeri Mucheke
 Nairobi, Kenya  |  2026
 
 A command-line tool that:
